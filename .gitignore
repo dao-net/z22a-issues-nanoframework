@@ -5,7 +5,7 @@ Secrets*.*
 Thumbs.db
 desktop.ini
 *.user
-bin/
-obj/
+bin*/
+obj*/
 .vs/
 packages/
